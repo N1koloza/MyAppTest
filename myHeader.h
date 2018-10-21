@@ -1,1 +1,2 @@
-int var = 100;
+int i = 100;
+int k = 0;
